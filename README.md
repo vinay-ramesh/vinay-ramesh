@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JavaScript, ReactJs, Redux, Axios, Formik, Yup, NodeJs, ExpressJs, MongoDB**
 
-- 📫 How to reach me vinayramesh1997@gmail.com, +91 9741742797 
+- 📫 Reach me: vinayramesh1997@gmail.com, +91 9741742797 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
