@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Software Developer at AppsnDevices Technologies Pvt Ltd.**
 
-- 🌱 I’m currently learning and contributing for **MERN Stack Web Development**
+- 🌱 Contributing for **MERN Stack Web Development**
 
 - 💬 Ask me about **JavaScript, ReactJs, Redux, Axios, Formik, Yup, NodeJs, ExpressJs, MongoDB**
 
