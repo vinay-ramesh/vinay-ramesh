@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vinay Ramesh S</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🔭 I’m currently working as **Software Developer at AppsnDevices Technologies Pvt Ltd.**
+- 🔭 I’m currently working as **Software Engineer at Idexcel Technologies Pvt Ltd.**
 
 - 🌱 Contributing for **MERN Stack Web Development**
 
-- 💬 Ask me about **JavaScript, ReactJs, Redux, Axios, Formik, Yup, NodeJs, ExpressJs, MongoDB**
+- 💬 Ask me about **JavaScript, ReactJs, Redux, Axios, Formik, Yup, NodeJs, ExpressJs, MongoDB, AWS, PostgreSQL, Datadog**
 
 - 📫 Reach me: vinayramesh1997@gmail.com, +91 9741742797 
 
